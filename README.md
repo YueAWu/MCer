@@ -1,7 +1,7 @@
 # MCer
 
 ## Paper and Data
-Our WWW 2020 paper: [Multi-level Connection Enhanced Representation Learning for Script Event Prediction](https://dl.acm.org/doi/10.1145/3442381.3449894).
+Our WWW 2021 paper: [Multi-level Connection Enhanced Representation Learning for Script Event Prediction](https://dl.acm.org/doi/10.1145/3442381.3449894).
 
 We uploaded data to [google drive](https://drive.google.com/file/d/1rZgDE8djN717xYE8em0OoFRir9hv8uxq/view?usp=sharing). You need to download and unzip it to root directory.
 
